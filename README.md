@@ -35,7 +35,7 @@ The Smart Health Monitoring System is an innovative solution designed to leverag
 We welcome contributions! Please read our contributing guidelines to get started.
 
 ## License
-This project is licensed under the [Name of License]. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the LICENSE file for more details.
 
 
 
