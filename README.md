@@ -4,7 +4,9 @@
 
 The Smart Health Monitoring System is an innovative solution designed to leverage wearable IoT technology and Google Cloud Platform's robust data processing capabilities. This project aims to collect, analyze, and visualize health-related data from wearable devices like smartwatches and fitness trackers, providing users with real-time insights into their health metrics.
 
-## Key Features
+## Architecture/Key Features
+
+(Architecture Flow Chart)
 
 + **Real-Time Data Collection:** Seamlessly collect health data such as heart rate, activity levels, and sleep patterns from wearable IoT devices.
 + **Data Processing and Analytics:** Utilize Google Cloud IoT Core for device management and Google Cloud Pub/Sub for efficient data ingestion. Process this data in real-time with Google Cloud Dataflow.
