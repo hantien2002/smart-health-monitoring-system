@@ -12,7 +12,7 @@ The Smart Health Monitoring System is an innovative solution designed to leverag
 + **Secure Data Storage:** Store processed data securely in Google BigQuery.
 + **User-Friendly Interface:** Develop an intuitive dashboard or mobile app allowing users to easily access their health data and insights.
 
-![Health Monitoring System Flowchart](SHMS_ architecture.png)
+![Health Monitoring System Flowchart](https://github.com/hantien2002/smart-health-monitoring-system/blob/main/SHMS_architecture.png)
 
 ## Goals
 
