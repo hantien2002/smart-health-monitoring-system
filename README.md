@@ -6,14 +6,14 @@ The Smart Health Monitoring System is an innovative solution designed to leverag
 
 ## Architecture/Key Features
 
+![Health Monitoring System Flowchart](https://github.com/hantien2002/smart-health-monitoring-system/blob/3af129e9de9cfbea6045c47b502be55a1c5b274c/SHMS_%20architecture.jpg)
+
 + **Real-Time Data Collection:** Seamlessly collect health data such as heart rate, activity levels, and sleep patterns from wearable IoT devices.
 + **Data Processing and Analytics:** Utilize Google Cloud IoT Core for device management and Google Cloud Pub/Sub for efficient data ingestion. Process this data in real-time with Google Cloud Dataflow.
 + **Machine Learning for Health Insights:** Implement machine learning models using TensorFlow and Google AI Platform to analyze health trends and provide personalized health recommendations.
 + **Secure Data Storage:** Store processed data securely in Google BigQuery.
 + **User-Friendly Interface:** Develop an intuitive dashboard or mobile app allowing users to easily access their health data and insights.
-
-![Health Monitoring System Flowchart](https://github.com/hantien2002/smart-health-monitoring-system/blob/3af129e9de9cfbea6045c47b502be55a1c5b274c/SHMS_%20architecture.jpg)
-
+  
 ## Goals
 
 + To create a scalable, cloud-based health monitoring system that can handle large volumes of real-time data.
